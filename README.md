@@ -8,16 +8,23 @@
 - works: string
 - photo:  text
 
-## Ideas
+## Prototypes
 - user_id: integer
 - catchcopy: string
 - concept: text
-- image: text
-- like: number
 
-## tags
+## Images
+- prototype_id
+- image: text
+
+## Likes
+- prototype_id
+- user_id
+
+## Tags
 - tag: string
 
-## comments
+## Comments
 - user_id: integer
+- prototype_id: integer
 - comment: text
