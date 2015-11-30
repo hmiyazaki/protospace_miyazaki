@@ -13,9 +13,10 @@
 - catchcopy: string
 - concept: text
 
-## Images
+## prototype_images
 - prototype_id: integer
 - image: text
+- main_sub: string
 
 ## Likes
 - prototype_id: integer
