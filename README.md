@@ -6,7 +6,7 @@
 - organization: string
 - profile: text
 - works: string
-- photo:  text
+- photo: text
 
 ## Prototypes
 - user_id: integer
@@ -14,12 +14,12 @@
 - concept: text
 
 ## Images
-- prototype_id
+- prototype_id: integer
 - image: text
 
 ## Likes
-- prototype_id
-- user_id
+- prototype_id: integer
+- user_id: integer
 
 ## Tags
 - tag: string
