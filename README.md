@@ -8,8 +8,6 @@
 - works: string
 - photo: text
 
-
-
 ## Prototypes
 - user_id: integer
 - catchcopy: string
