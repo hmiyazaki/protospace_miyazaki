@@ -16,7 +16,7 @@
 ## Prototype_images
 - prototype_id: integer
 - image: text
-- main_sub: string
+- status: integer
 
 ## Likes
 - prototype_id: integer
